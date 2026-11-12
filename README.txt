@@ -1,23 +1,35 @@
-The application contains a front end and a backend.
+# Life Enhance
 
-To run the front-end, go onto the front end folder (lifeenhancefyp)
-And execute the following command:
-npm run start
+Life Enhance is a web application developed as my final-year Computer Science project at Technological University Dublin.
 
-To run the back-end, go onto the back end folder (FYPServer)
-And execute the following command
-node app.js
+The application combines life-planning tools with gamification to make managing everyday activities more engaging and enjoyable.
 
-This was my final year project as part of my 4th year in Technological University Dublin. The goal for this project is to provide a fun and engaging web application that will help users keep track of their life. The web application is called “Life Enhance” and it combines various life planning tools in an entertaining way, which makes the web application feel more like a “game” rather than a chore.
+## Technologies Used
 
-Technologies used:
-• React
-• React Router
-• Firebase Authentication
-• Firebase Storage
-• Firebase Real-time Database
-• Tailwind CSS
-• NodeJS
-• Express
-• Axios
-• Nielsen’s heuristics
+- React
+- React Router
+- Firebase Authentication
+- Firebase Storage
+- Firebase Realtime Database
+- Tailwind CSS
+- Node.js
+- Express
+- Axios
+
+Nielsen's usability heuristics were also considered during the design process.
+
+## Running Locally
+
+The application consists of a frontend and a backend.
+
+**Frontend**
+
+Navigate to the `lifeenhancefyp` directory and run:
+
+`npm run start`
+
+**Backend**
+
+Navigate to the `FYPServer` directory and run:
+
+`node app.js`
